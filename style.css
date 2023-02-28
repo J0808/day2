@@ -1,0 +1,11 @@
+.card{
+    top: 50px;
+    left: 10PX;
+    position: relative;
+    }
+    .body{
+        background-image: bg1.png;
+    }
+    nav{
+        background-color: beige;
+    }
